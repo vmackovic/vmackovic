@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vanja</h1>
 
-<!--
-**vmackovic/vmackovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Vanja Mačković, I am currently pursuing my Masters in Organization of business systems from [Faculty of organization and informatics](https://www.foi.unizg.hr/). I am a tech & fitness enthusiast.
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vmackovic" alt="vmackovic" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/vmackovic/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmackovic&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+![Vanja's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmackovic&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmackovic&theme=great-gatsby&layout=compact)](https://github.com/vmackovic) </br>
