@@ -4,11 +4,10 @@ I am Vanja Mačković, I am currently pursuing my Masters in Organization of bus
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vmackovic" alt="vmackovic" /> </p>
 
-<p align="center">
-    <a href="https://github.com/vmackovic/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmackovic&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-![Vanja's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmackovic&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmackovic&theme=great-gatsby&layout=compact)](https://github.com/vmackovic) </br>
+## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+<a href="https://github.com/vmackovic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmackovic&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+</a>
+<a href="https://github.com/vmackovic">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vmackovic&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Vanja's github stats" height="220px" />
+</a>
